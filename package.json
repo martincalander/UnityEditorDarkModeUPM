@@ -1,0 +1,13 @@
+{
+  "name": "com.0-7c13.darkmode",
+  "version": "0.1.0",
+  "displayName": "Dark Mode",
+  "description": "Unity package for dark mode tooling.",
+  "unity": "2021.3",
+  "unityRelease": "0b1",
+  "author": {
+    "name": "Martin Calander",
+    "url": "https://martincalander.com",
+    "email": "martin.calander@gmail.com"
+  }
+}
