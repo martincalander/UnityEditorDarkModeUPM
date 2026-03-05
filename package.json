@@ -1,13 +1,28 @@
 {
   "name": "com.0-7c13.darkmode",
-  "version": "0.1.0",
-  "displayName": "Dark Mode",
-  "description": "Unity package for dark mode tooling.",
+  "version": "1.1.0",
+  "displayName": "DarkMode for Unity Editor on Windows",
+  "description": "A fully working runtime dark mode mod for Unity Editor on Windows with dark title bar, dark menu bar, and dark context menu. Restart Unity Editor after initial installation.",
   "unity": "2021.3",
-  "unityRelease": "0b1",
+  "unityRelease": "37f1",
+  "documentationUrl": "https://github.com/martincalander/com.0-7c13.darkmode/blob/main/README.md",
+  "changelogUrl": "https://github.com/martincalander/com.0-7c13.darkmode/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/martincalander/com.0-7c13.darkmode/blob/main/LICENSE.md",
+  "license": "MIT",
+  "keywords": [
+    "theme",
+    "dark",
+    "editor",
+    "darkmode",
+    "ui",
+    "tool",
+    "gui",
+    "editor-extension",
+    "editor-tools"
+  ],
   "author": {
-    "name": "Martin Calander",
-    "url": "https://martincalander.com",
-    "email": "martin.calander@gmail.com"
+    "name": "Jiaqi (0x7c13) Liu",
+    "url": "https://github.com/0x7c13",
+    "email": "0x7c13@gmail.com"
   }
 }
