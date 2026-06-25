@@ -5,9 +5,9 @@
   "description": "A fully working runtime dark mode mod for Unity Editor on Windows with dark title bar, dark menu bar, and dark context menu. Restart Unity Editor after initial installation.",
   "unity": "2021.3",
   "unityRelease": "37f1",
-  "documentationUrl": "https://github.com/martincalander/com.0x7c13.darkmode/blob/main/README.md",
-  "changelogUrl": "https://github.com/martincalander/com.0x7c13.darkmode/blob/main/CHANGELOG.md",
-  "licensesUrl": "https://github.com/martincalander/com.0x7c13.darkmode/blob/main/LICENSE.md",
+  "documentationUrl": "https://github.com/EssentialsForUnity/com.0x7c13.darkmode/blob/main/README.md",
+  "changelogUrl": "https://github.com/EssentialsForUnity/com.0x7c13.darkmode/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/EssentialsForUnity/com.0x7c13.darkmode/blob/main/LICENSE.md",
   "license": "MIT",
   "keywords": [
     "theme",
