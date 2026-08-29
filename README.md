@@ -9,7 +9,7 @@ This package loads the original native Windows DLL in the Unity Editor to darken
 In Unity, open **Window > Package Manager**, choose **+ > Install package from Git URL**, and enter:
 
 ```text
-https://github.com/EssentialsForUnity/UnityEditorDarkModeUPM.git
+https://github.com/martincalander/UnityEditorDarkModeUPM.git
 ```
 
 Alternatively, install the creator's original [Unity Asset Store package](https://assetstore.unity.com/packages/tools/gui/darkmode-for-unity-editor-on-windows-281842).
