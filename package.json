@@ -1,13 +1,13 @@
 {
   "name": "com.0x7c13.darkmode",
   "version": "1.1.0",
-  "displayName": "DarkMode for Unity Editor on Windows",
-  "description": "A fully working runtime dark mode mod for Unity Editor on Windows with dark title bar, dark menu bar, and dark context menu. Restart Unity Editor after initial installation.",
+  "displayName": "UnityEditorDarkModeUPM",
+  "description": "A UPM-packaged version of Jiaqi (0x7c13) Liu's Windows-only runtime dark mode mod for the Unity Editor.",
   "unity": "2021.3",
   "unityRelease": "37f1",
-  "documentationUrl": "https://github.com/EssentialsForUnity/com.0x7c13.darkmode/blob/main/README.md",
-  "changelogUrl": "https://github.com/EssentialsForUnity/com.0x7c13.darkmode/blob/main/CHANGELOG.md",
-  "licensesUrl": "https://github.com/EssentialsForUnity/com.0x7c13.darkmode/blob/main/LICENSE.md",
+  "documentationUrl": "https://github.com/EssentialsForUnity/UnityEditorDarkModeUPM/blob/main/README.md",
+  "changelogUrl": "https://github.com/EssentialsForUnity/UnityEditorDarkModeUPM/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/EssentialsForUnity/UnityEditorDarkModeUPM/blob/main/LICENSE.md",
   "license": "MIT",
   "keywords": [
     "theme",
