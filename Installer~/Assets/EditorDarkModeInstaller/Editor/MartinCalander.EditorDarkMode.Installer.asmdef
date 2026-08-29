@@ -1,0 +1,16 @@
+{
+  "name": "MartinCalander.EditorDarkMode.Installer",
+  "rootNamespace": "MartinCalander.EditorDarkMode.Installer",
+  "references": [],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

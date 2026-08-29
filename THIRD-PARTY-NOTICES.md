@@ -1,6 +1,8 @@
 # Third-party notices
 
 The bundled `UnityEditorDarkMode.dll` contains code from the projects below.
+The DLL is redistributed unchanged from Jiaqi Liu's upstream v1.1 release; see
+[NOTICE.md](NOTICE.md) for its exact provenance and checksum.
 
 ## ReaperThemeHackDll
 
@@ -28,7 +30,7 @@ SOFTWARE.
 
 ## inipp
 
-Source: <https://github.com/mcmtroffaes/inipp>
+Source: <https://github.com/mcmtroffaes/inipp/tree/c61e699682d3f1091209c2179f1d03f5fc593327>
 
 MIT License
 

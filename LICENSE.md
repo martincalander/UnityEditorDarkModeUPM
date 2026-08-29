@@ -1,6 +1,7 @@
 MIT License
 
-Copyright (c) 2024 Jiaqi (0x7c13) Liu
+Copyright (c) 2024 Jiaqi Liu
+Copyright (c) 2026 Martin Calander (UPM wrapper and release tooling)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

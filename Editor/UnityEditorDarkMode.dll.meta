@@ -61,10 +61,3 @@ PluginImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 281842
-  packageName: DarkMode for Unity Editor on Windows
-  packageVersion: 1.1
-  assetPath: Assets/Plugins/UnityEditorDarkMode/UnityEditorDarkMode.dll
-  uploadId: 656109
